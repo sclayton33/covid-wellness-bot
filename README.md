@@ -9,7 +9,7 @@ Although I may have saved a few hours of time over the span this bot was used, i
 
 ## Usage
 
-It's recommended that you create a new python environment for the bot using your manager of choice (conda, pip, etc.) and install the necessary dependencies defined in *Requirements.txt*. The packages needed are *schedule* and *spliter*, the others should be included in the default python installation.
+It's recommended that you create a new python environment for the bot using your manager of choice (conda, pip, etc.) and install the necessary dependencies defined in *Requirements.txt*. The packages needed are *schedule* and *splinter*, the others should be included in the default python installation.
 
 You will also need Google Chrome installed, along with the corresponding web driver for your version, which can be found [here](https://chromedriver.chromium.org/downloads). The Chrome web driver must be installed in the expected location, refer to [the docs](https://chromedriver.chromium.org/downloads) about how to install it. On linux, this will either be /usr/local/bin or /opt/google/chrome.
 
